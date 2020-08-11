@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/mindit/static/css/main.211d7ce4.chunk.css",
+    "main.js": "/mindit/static/js/main.da844dff.chunk.js",
+    "main.js.map": "/mindit/static/js/main.da844dff.chunk.js.map",
+    "runtime-main.js": "/mindit/static/js/runtime-main.8fdb237e.js",
+    "runtime-main.js.map": "/mindit/static/js/runtime-main.8fdb237e.js.map",
+    "static/js/2.32f33615.chunk.js": "/mindit/static/js/2.32f33615.chunk.js",
+    "static/js/2.32f33615.chunk.js.map": "/mindit/static/js/2.32f33615.chunk.js.map",
+    "index.html": "/mindit/index.html",
+    "precache-manifest.fac4fc9bcc131dcd850a596ed3b0b151.js": "/mindit/precache-manifest.fac4fc9bcc131dcd850a596ed3b0b151.js",
+    "service-worker.js": "/mindit/service-worker.js",
+    "static/css/main.211d7ce4.chunk.css.map": "/mindit/static/css/main.211d7ce4.chunk.css.map",
+    "static/js/2.32f33615.chunk.js.LICENSE.txt": "/mindit/static/js/2.32f33615.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/mindit/static/media/bg2.18342af7.jpg",
+    "static/media/iconAI.png": "/mindit/static/media/iconAI.d417f931.png",
+    "static/media/iconAnalysis.png": "/mindit/static/media/iconAnalysis.8c40e4df.png",
+    "static/media/iconData.png": "/mindit/static/media/iconData.dad177b3.png",
+    "static/media/iconSolutions.png": "/mindit/static/media/iconSolutions.33d4da7f.png",
+    "static/media/logo.png": "/mindit/static/media/logo.a31a9c89.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fdb237e.js",
+    "static/js/2.32f33615.chunk.js",
+    "static/css/main.211d7ce4.chunk.css",
+    "static/js/main.da844dff.chunk.js"
+  ]
+}

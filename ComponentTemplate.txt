@@ -1,0 +1,13 @@
+import React from 'react'
+
+class x {
+    render(){
+        return(
+            <div>
+            
+            </div>
+        )
+    }
+}
+
+export default x
