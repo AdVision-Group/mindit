@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e19b3672d1dc83857a4b1d49a2614320",
+    "revision": "c315449ea793414fa364a7dbad0499e9",
     "url": "/mindit/index.html"
   },
   {
-    "revision": "ebc599c847d743ec0301",
-    "url": "/mindit/static/css/main.1a6576b5.chunk.css"
+    "revision": "c50b97012c2e437cd020",
+    "url": "/mindit/static/css/main.023762b1.chunk.css"
   },
   {
-    "revision": "dd6c063f0522d7ad770d",
-    "url": "/mindit/static/js/2.32f33615.chunk.js"
+    "revision": "8ce558215a2007854e14",
+    "url": "/mindit/static/js/2.7a14025e.chunk.js"
   },
   {
     "revision": "f4aac9c965aa45c554c7c1d1e3f69ce3",
-    "url": "/mindit/static/js/2.32f33615.chunk.js.LICENSE.txt"
+    "url": "/mindit/static/js/2.7a14025e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ebc599c847d743ec0301",
-    "url": "/mindit/static/js/main.144d68ff.chunk.js"
+    "revision": "c50b97012c2e437cd020",
+    "url": "/mindit/static/js/main.3b7c8cad.chunk.js"
   },
   {
     "revision": "31c60bd3733133285a7e",
     "url": "/mindit/static/js/runtime-main.8fdb237e.js"
+  },
+  {
+    "revision": "daeb00e6d8a374f55b1291237b5e3665",
+    "url": "/mindit/static/media/abby.daeb00e6.png"
   },
   {
     "revision": "fc40bcf87f7cabc702e254c48ea0a04f",
@@ -30,6 +34,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "18342af7a52a1717d75e90e6b2da6515",
     "url": "/mindit/static/media/bg2.18342af7.jpg"
+  },
+  {
+    "revision": "7bbaef5ef0cc6b6a269efdaacdcced65",
+    "url": "/mindit/static/media/decor.7bbaef5e.png"
+  },
+  {
+    "revision": "7ff4d74b2a605b49276289796ef3cb72",
+    "url": "/mindit/static/media/decor2.7ff4d74b.png"
   },
   {
     "revision": "d417f93142a035eb293e3052657fc22e",
@@ -50,5 +62,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a31a9c89a06856b4f1ad96f142afac2f",
     "url": "/mindit/static/media/logo.a31a9c89.png"
+  },
+  {
+    "revision": "a9dd0969abfc7c54af83235dc37c4fc5",
+    "url": "/mindit/static/media/sken.a9dd0969.png"
+  },
+  {
+    "revision": "9c468747d84b14b429438655d430a340",
+    "url": "/mindit/static/media/sporitelna.9c468747.jpg"
   }
 ]);
