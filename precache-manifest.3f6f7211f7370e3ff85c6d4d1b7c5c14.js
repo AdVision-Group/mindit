@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c315449ea793414fa364a7dbad0499e9",
+    "revision": "135562e1fb32892966a0fc4ee65fa50b",
     "url": "/mindit/index.html"
   },
   {
-    "revision": "c50b97012c2e437cd020",
-    "url": "/mindit/static/css/main.023762b1.chunk.css"
+    "revision": "e95c0b2d7dda637340f9",
+    "url": "/mindit/static/css/main.455f7f1b.chunk.css"
   },
   {
-    "revision": "8ce558215a2007854e14",
-    "url": "/mindit/static/js/2.7a14025e.chunk.js"
+    "revision": "dd74aeed8b571e7db193",
+    "url": "/mindit/static/js/2.8dad098d.chunk.js"
   },
   {
     "revision": "f4aac9c965aa45c554c7c1d1e3f69ce3",
-    "url": "/mindit/static/js/2.7a14025e.chunk.js.LICENSE.txt"
+    "url": "/mindit/static/js/2.8dad098d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c50b97012c2e437cd020",
-    "url": "/mindit/static/js/main.3b7c8cad.chunk.js"
+    "revision": "e95c0b2d7dda637340f9",
+    "url": "/mindit/static/js/main.d79ee651.chunk.js"
   },
   {
     "revision": "31c60bd3733133285a7e",
@@ -44,6 +44,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mindit/static/media/decor2.7ff4d74b.png"
   },
   {
+    "revision": "4194e9707d27c673edb00b9366a394a1",
+    "url": "/mindit/static/media/fond_logo.4194e970.jpg"
+  },
+  {
     "revision": "d417f93142a035eb293e3052657fc22e",
     "url": "/mindit/static/media/iconAI.d417f931.png"
   },
@@ -62,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a31a9c89a06856b4f1ad96f142afac2f",
     "url": "/mindit/static/media/logo.a31a9c89.png"
+  },
+  {
+    "revision": "df177583f8f5ea9b4ec427ee8e6614c0",
+    "url": "/mindit/static/media/msvvs_logo.df177583.png"
   },
   {
     "revision": "a9dd0969abfc7c54af83235dc37c4fc5",

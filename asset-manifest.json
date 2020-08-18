@@ -1,33 +1,35 @@
 {
   "files": {
-    "main.css": "/mindit/static/css/main.023762b1.chunk.css",
-    "main.js": "/mindit/static/js/main.3b7c8cad.chunk.js",
-    "main.js.map": "/mindit/static/js/main.3b7c8cad.chunk.js.map",
+    "main.css": "/mindit/static/css/main.455f7f1b.chunk.css",
+    "main.js": "/mindit/static/js/main.d79ee651.chunk.js",
+    "main.js.map": "/mindit/static/js/main.d79ee651.chunk.js.map",
     "runtime-main.js": "/mindit/static/js/runtime-main.8fdb237e.js",
     "runtime-main.js.map": "/mindit/static/js/runtime-main.8fdb237e.js.map",
-    "static/js/2.7a14025e.chunk.js": "/mindit/static/js/2.7a14025e.chunk.js",
-    "static/js/2.7a14025e.chunk.js.map": "/mindit/static/js/2.7a14025e.chunk.js.map",
+    "static/js/2.8dad098d.chunk.js": "/mindit/static/js/2.8dad098d.chunk.js",
+    "static/js/2.8dad098d.chunk.js.map": "/mindit/static/js/2.8dad098d.chunk.js.map",
     "index.html": "/mindit/index.html",
-    "precache-manifest.66f498e5d66dd515af01d894d2b46e3c.js": "/mindit/precache-manifest.66f498e5d66dd515af01d894d2b46e3c.js",
+    "precache-manifest.3f6f7211f7370e3ff85c6d4d1b7c5c14.js": "/mindit/precache-manifest.3f6f7211f7370e3ff85c6d4d1b7c5c14.js",
     "service-worker.js": "/mindit/service-worker.js",
-    "static/css/main.023762b1.chunk.css.map": "/mindit/static/css/main.023762b1.chunk.css.map",
-    "static/js/2.7a14025e.chunk.js.LICENSE.txt": "/mindit/static/js/2.7a14025e.chunk.js.LICENSE.txt",
+    "static/css/main.455f7f1b.chunk.css.map": "/mindit/static/css/main.455f7f1b.chunk.css.map",
+    "static/js/2.8dad098d.chunk.js.LICENSE.txt": "/mindit/static/js/2.8dad098d.chunk.js.LICENSE.txt",
     "static/media/abby.png": "/mindit/static/media/abby.daeb00e6.png",
     "static/media/index.css": "/mindit/static/media/bg2.18342af7.jpg",
     "static/media/decor.png": "/mindit/static/media/decor.7bbaef5e.png",
     "static/media/decor2.png": "/mindit/static/media/decor2.7ff4d74b.png",
+    "static/media/fond_logo.jpg": "/mindit/static/media/fond_logo.4194e970.jpg",
     "static/media/iconAI.png": "/mindit/static/media/iconAI.d417f931.png",
     "static/media/iconAnalysis.png": "/mindit/static/media/iconAnalysis.8c40e4df.png",
     "static/media/iconData.png": "/mindit/static/media/iconData.dad177b3.png",
     "static/media/iconSolutions.png": "/mindit/static/media/iconSolutions.33d4da7f.png",
     "static/media/logo.png": "/mindit/static/media/logo.a31a9c89.png",
+    "static/media/msvvs_logo.png": "/mindit/static/media/msvvs_logo.df177583.png",
     "static/media/sken.png": "/mindit/static/media/sken.a9dd0969.png",
     "static/media/sporitelna.jpg": "/mindit/static/media/sporitelna.9c468747.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8fdb237e.js",
-    "static/js/2.7a14025e.chunk.js",
-    "static/css/main.023762b1.chunk.css",
-    "static/js/main.3b7c8cad.chunk.js"
+    "static/js/2.8dad098d.chunk.js",
+    "static/css/main.455f7f1b.chunk.css",
+    "static/js/main.d79ee651.chunk.js"
   ]
 }
