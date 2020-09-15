@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/mindit/static/css/main.9087967f.chunk.css",
-    "main.js": "/mindit/static/js/main.3b939bee.chunk.js",
-    "main.js.map": "/mindit/static/js/main.3b939bee.chunk.js.map",
+    "main.js": "/mindit/static/js/main.07e35406.chunk.js",
+    "main.js.map": "/mindit/static/js/main.07e35406.chunk.js.map",
     "runtime-main.js": "/mindit/static/js/runtime-main.8fdb237e.js",
     "runtime-main.js.map": "/mindit/static/js/runtime-main.8fdb237e.js.map",
     "static/css/2.04716422.chunk.css": "/mindit/static/css/2.04716422.chunk.css",
-    "static/js/2.88ceb391.chunk.js": "/mindit/static/js/2.88ceb391.chunk.js",
-    "static/js/2.88ceb391.chunk.js.map": "/mindit/static/js/2.88ceb391.chunk.js.map",
+    "static/js/2.25c3e226.chunk.js": "/mindit/static/js/2.25c3e226.chunk.js",
+    "static/js/2.25c3e226.chunk.js.map": "/mindit/static/js/2.25c3e226.chunk.js.map",
     "index.html": "/mindit/index.html",
-    "precache-manifest.fe07c8bf1f373131ebce68a5b444bc2f.js": "/mindit/precache-manifest.fe07c8bf1f373131ebce68a5b444bc2f.js",
+    "precache-manifest.b4daa7ed049f96135cdf0a04eab454d2.js": "/mindit/precache-manifest.b4daa7ed049f96135cdf0a04eab454d2.js",
     "service-worker.js": "/mindit/service-worker.js",
     "static/css/2.04716422.chunk.css.map": "/mindit/static/css/2.04716422.chunk.css.map",
     "static/css/main.9087967f.chunk.css.map": "/mindit/static/css/main.9087967f.chunk.css.map",
-    "static/js/2.88ceb391.chunk.js.LICENSE.txt": "/mindit/static/js/2.88ceb391.chunk.js.LICENSE.txt",
+    "static/js/2.25c3e226.chunk.js.LICENSE.txt": "/mindit/static/js/2.25c3e226.chunk.js.LICENSE.txt",
     "static/media/0.png": "/mindit/static/media/0.d3b5d6f6.png",
     "static/media/1.png": "/mindit/static/media/1.24015c8e.png",
     "static/media/2.png": "/mindit/static/media/2.d03c976c.png",
@@ -22,7 +22,6 @@
     "static/media/5.png": "/mindit/static/media/5.bd27cc2c.png",
     "static/media/abby.png": "/mindit/static/media/abby.daeb00e6.png",
     "static/media/index.scss": "/mindit/static/media/bg6.14b3c105.jpg",
-    "static/media/analysisbg.png": "/mindit/static/media/analysisbg.91d620ba.png",
     "static/media/arrow.svg": "/mindit/static/media/arrow.a0e061b5.svg",
     "static/media/back.svg": "/mindit/static/media/back.e6ad128e.svg",
     "static/media/bg (1).jpg": "/mindit/static/media/bg (1).4a95100c.jpg",
@@ -37,8 +36,6 @@
     "static/media/homeicon.png": "/mindit/static/media/homeicon.1afb1a0f.png",
     "static/media/ibmg.png": "/mindit/static/media/ibmg.283ba18b.png",
     "static/media/ibmg.jpg": "/mindit/static/media/ibmg.7866d276.jpg",
-    "static/media/icon rak mensie.png": "/mindit/static/media/icon rak mensie.c72c5bc0.png",
-    "static/media/icon-9.png": "/mindit/static/media/icon-9.1afb1a0f.png",
     "static/media/iconAI.png": "/mindit/static/media/iconAI.0621e916.png",
     "static/media/iconAgro.png": "/mindit/static/media/iconAgro.ffe6df15.png",
     "static/media/iconAnalysis.png": "/mindit/static/media/iconAnalysis.5590b7cb.png",
@@ -55,9 +52,6 @@
     "static/media/iconSolutions.png": "/mindit/static/media/iconSolutions.f956a664.png",
     "static/media/kultura.png": "/mindit/static/media/kultura.b129db7c.png",
     "static/media/kulturag.png": "/mindit/static/media/kulturag.a34ad7b1.png",
-    "static/media/loggo.png": "/mindit/static/media/loggo.a31a9c89.png",
-    "static/media/main.png": "/mindit/static/media/main.c3b1b23d.png",
-    "static/media/main2.png": "/mindit/static/media/main2.c064b66d.png",
     "static/media/msvvs_logo.png": "/mindit/static/media/msvvs_logo.df177583.png",
     "static/media/network.png": "/mindit/static/media/network.825e98d5.png",
     "static/media/output-onlinepngtools.png": "/mindit/static/media/output-onlinepngtools.98444098.png",
@@ -78,8 +72,8 @@
   "entrypoints": [
     "static/js/runtime-main.8fdb237e.js",
     "static/css/2.04716422.chunk.css",
-    "static/js/2.88ceb391.chunk.js",
+    "static/js/2.25c3e226.chunk.js",
     "static/css/main.9087967f.chunk.css",
-    "static/js/main.3b939bee.chunk.js"
+    "static/js/main.07e35406.chunk.js"
   ]
 }

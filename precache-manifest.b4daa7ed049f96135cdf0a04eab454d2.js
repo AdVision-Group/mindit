@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a7ea39d388c5e44c469ae0c1737a20b",
+    "revision": "cd37a5b2d07e99c45e13a58173a1a37a",
     "url": "/mindit/index.html"
   },
   {
-    "revision": "00996df9207c7eb3ac66",
+    "revision": "f7609c4f50a7c31242e7",
     "url": "/mindit/static/css/2.04716422.chunk.css"
   },
   {
-    "revision": "f61c4b94cd73ae021992",
+    "revision": "e1c1e4ebbc6d5f35573d",
     "url": "/mindit/static/css/main.9087967f.chunk.css"
   },
   {
-    "revision": "00996df9207c7eb3ac66",
-    "url": "/mindit/static/js/2.88ceb391.chunk.js"
+    "revision": "f7609c4f50a7c31242e7",
+    "url": "/mindit/static/js/2.25c3e226.chunk.js"
   },
   {
     "revision": "ffa35a34964860fdc97ed79ca9abd27c",
-    "url": "/mindit/static/js/2.88ceb391.chunk.js.LICENSE.txt"
+    "url": "/mindit/static/js/2.25c3e226.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f61c4b94cd73ae021992",
-    "url": "/mindit/static/js/main.3b939bee.chunk.js"
+    "revision": "e1c1e4ebbc6d5f35573d",
+    "url": "/mindit/static/js/main.07e35406.chunk.js"
   },
   {
     "revision": "31c60bd3733133285a7e",
@@ -58,10 +58,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6423a5cb548d493a0fc59c8467e49896",
     "url": "/mindit/static/media/abc2.6423a5cb.jpg"
-  },
-  {
-    "revision": "91d620bad1a791adc3bf23e973427ec2",
-    "url": "/mindit/static/media/analysisbg.91d620ba.png"
   },
   {
     "revision": "a0e061b54507c1ea6361ee20ac930f2c",
@@ -122,14 +118,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7866d276d59936a9195f77df9a34cc1a",
     "url": "/mindit/static/media/ibmg.7866d276.jpg"
-  },
-  {
-    "revision": "c72c5bc0ed8a9cf74490db340293c633",
-    "url": "/mindit/static/media/icon rak mensie.c72c5bc0.png"
-  },
-  {
-    "revision": "1afb1a0fe5954a6043afbf703f75ae43",
-    "url": "/mindit/static/media/icon-9.1afb1a0f.png"
   },
   {
     "revision": "0621e91652d650d49b3ade3599bfb192",
@@ -194,18 +182,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a34ad7b19cace5af2bc3e43c801093aa",
     "url": "/mindit/static/media/kulturag.a34ad7b1.png"
-  },
-  {
-    "revision": "a31a9c89a06856b4f1ad96f142afac2f",
-    "url": "/mindit/static/media/loggo.a31a9c89.png"
-  },
-  {
-    "revision": "c3b1b23de76e26a3cc7330c200f3fca0",
-    "url": "/mindit/static/media/main.c3b1b23d.png"
-  },
-  {
-    "revision": "c064b66d6900171c75d6dab7714a7a71",
-    "url": "/mindit/static/media/main2.c064b66d.png"
   },
   {
     "revision": "df177583f8f5ea9b4ec427ee8e6614c0",
