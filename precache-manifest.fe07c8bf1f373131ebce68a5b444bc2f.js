@@ -1,31 +1,55 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db5d7633f1410e7c483ece7cd0ca597b",
+    "revision": "8a7ea39d388c5e44c469ae0c1737a20b",
     "url": "/mindit/index.html"
   },
   {
-    "revision": "75d373da30d3ca67b718",
+    "revision": "00996df9207c7eb3ac66",
     "url": "/mindit/static/css/2.04716422.chunk.css"
   },
   {
-    "revision": "7a77f137511862731787",
-    "url": "/mindit/static/css/main.938ce472.chunk.css"
+    "revision": "f61c4b94cd73ae021992",
+    "url": "/mindit/static/css/main.9087967f.chunk.css"
   },
   {
-    "revision": "75d373da30d3ca67b718",
-    "url": "/mindit/static/js/2.77b94a2b.chunk.js"
+    "revision": "00996df9207c7eb3ac66",
+    "url": "/mindit/static/js/2.88ceb391.chunk.js"
   },
   {
     "revision": "ffa35a34964860fdc97ed79ca9abd27c",
-    "url": "/mindit/static/js/2.77b94a2b.chunk.js.LICENSE.txt"
+    "url": "/mindit/static/js/2.88ceb391.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7a77f137511862731787",
-    "url": "/mindit/static/js/main.0f410998.chunk.js"
+    "revision": "f61c4b94cd73ae021992",
+    "url": "/mindit/static/js/main.3b939bee.chunk.js"
   },
   {
     "revision": "31c60bd3733133285a7e",
     "url": "/mindit/static/js/runtime-main.8fdb237e.js"
+  },
+  {
+    "revision": "d3b5d6f6d47e7b70c1e9d7f840796e2c",
+    "url": "/mindit/static/media/0.d3b5d6f6.png"
+  },
+  {
+    "revision": "24015c8eded325bda5922313a412f993",
+    "url": "/mindit/static/media/1.24015c8e.png"
+  },
+  {
+    "revision": "d03c976c6901f2611f1e0d6937898243",
+    "url": "/mindit/static/media/2.d03c976c.png"
+  },
+  {
+    "revision": "0ac86a4f0ada39a9ef315215fc764078",
+    "url": "/mindit/static/media/3.0ac86a4f.png"
+  },
+  {
+    "revision": "9cab0f91e90210a13e0910e07c4db3cc",
+    "url": "/mindit/static/media/4.9cab0f91.png"
+  },
+  {
+    "revision": "bd27cc2c428eb46fc551e77aa0c02ef0",
+    "url": "/mindit/static/media/5.bd27cc2c.png"
   },
   {
     "revision": "daeb00e6d8a374f55b1291237b5e3665",
@@ -36,24 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mindit/static/media/abc2.6423a5cb.jpg"
   },
   {
+    "revision": "91d620bad1a791adc3bf23e973427ec2",
+    "url": "/mindit/static/media/analysisbg.91d620ba.png"
+  },
+  {
     "revision": "a0e061b54507c1ea6361ee20ac930f2c",
     "url": "/mindit/static/media/arrow.a0e061b5.svg"
   },
   {
-    "revision": "d2e1bfcaec7f7e448056d569b0589ebe",
-    "url": "/mindit/static/media/back.d2e1bfca.svg"
-  },
-  {
-    "revision": "dfa60efc62fcac7c4830e885a84f7f55",
-    "url": "/mindit/static/media/back.dfa60efc.svg"
-  },
-  {
     "revision": "e6ad128e7c554570862b82e27651b5d9",
     "url": "/mindit/static/media/back.e6ad128e.svg"
-  },
-  {
-    "revision": "d3b5d6f6d47e7b70c1e9d7f840796e2c",
-    "url": "/mindit/static/media/backsvg.d3b5d6f6.png"
   },
   {
     "revision": "4a95100c0713f3fd23426641e686d5ae",
@@ -106,6 +122,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7866d276d59936a9195f77df9a34cc1a",
     "url": "/mindit/static/media/ibmg.7866d276.jpg"
+  },
+  {
+    "revision": "c72c5bc0ed8a9cf74490db340293c633",
+    "url": "/mindit/static/media/icon rak mensie.c72c5bc0.png"
+  },
+  {
+    "revision": "1afb1a0fe5954a6043afbf703f75ae43",
+    "url": "/mindit/static/media/icon-9.1afb1a0f.png"
   },
   {
     "revision": "0621e91652d650d49b3ade3599bfb192",
@@ -170,6 +194,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a34ad7b19cace5af2bc3e43c801093aa",
     "url": "/mindit/static/media/kulturag.a34ad7b1.png"
+  },
+  {
+    "revision": "a31a9c89a06856b4f1ad96f142afac2f",
+    "url": "/mindit/static/media/loggo.a31a9c89.png"
+  },
+  {
+    "revision": "c3b1b23de76e26a3cc7330c200f3fca0",
+    "url": "/mindit/static/media/main.c3b1b23d.png"
+  },
+  {
+    "revision": "c064b66d6900171c75d6dab7714a7a71",
+    "url": "/mindit/static/media/main2.c064b66d.png"
   },
   {
     "revision": "df177583f8f5ea9b4ec427ee8e6614c0",
