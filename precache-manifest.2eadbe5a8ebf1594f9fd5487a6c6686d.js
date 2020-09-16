@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3fedd6798a911bc17a46ffe2c78de999",
+    "revision": "56115a23bef85ddaa76740260aff7083",
     "url": "/mindit/index.html"
   },
   {
-    "revision": "6b19b556076bdd44f484",
+    "revision": "c444503651a54d2b95b9",
     "url": "/mindit/static/css/2.04716422.chunk.css"
   },
   {
-    "revision": "4d6f247781842e30d53e",
-    "url": "/mindit/static/css/main.5fa78f8e.chunk.css"
+    "revision": "6070e5422b46ac8a5200",
+    "url": "/mindit/static/css/main.ed8a2efd.chunk.css"
   },
   {
-    "revision": "6b19b556076bdd44f484",
-    "url": "/mindit/static/js/2.84b96a5a.chunk.js"
+    "revision": "c444503651a54d2b95b9",
+    "url": "/mindit/static/js/2.ded37635.chunk.js"
   },
   {
     "revision": "ffa35a34964860fdc97ed79ca9abd27c",
-    "url": "/mindit/static/js/2.84b96a5a.chunk.js.LICENSE.txt"
+    "url": "/mindit/static/js/2.ded37635.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4d6f247781842e30d53e",
-    "url": "/mindit/static/js/main.80ace571.chunk.js"
+    "revision": "6070e5422b46ac8a5200",
+    "url": "/mindit/static/js/main.fe88fd56.chunk.js"
   },
   {
     "revision": "31c60bd3733133285a7e",
@@ -50,6 +50,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e9a9c3da06326ea5c9cde97af08c382c",
     "url": "/mindit/static/media/5.e9a9c3da.svg"
+  },
+  {
+    "revision": "fb6a88f424d64d82e98ae6ab2a48355d",
+    "url": "/mindit/static/media/ArchiveX.fb6a88f4.pdf"
+  },
+  {
+    "revision": "42e68afa0b433d5376ac095d38c4b648",
+    "url": "/mindit/static/media/DocMiner.42e68afa.pdf"
+  },
+  {
+    "revision": "1f587f0e745c7573c3ea18db5b256198",
+    "url": "/mindit/static/media/RSM.1f587f0e.pdf"
   },
   {
     "revision": "daeb00e6d8a374f55b1291237b5e3665",
@@ -82,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "14b3c105b02eba4e6bc01d3003dd7e38",
     "url": "/mindit/static/media/bg6.14b3c105.jpg"
+  },
+  {
+    "revision": "56988b09c0457e687b14bf9effe19f6b",
+    "url": "/mindit/static/media/cert-mindrec.56988b09.pdf"
   },
   {
     "revision": "7bbaef5ef0cc6b6a269efdaacdcced65",
