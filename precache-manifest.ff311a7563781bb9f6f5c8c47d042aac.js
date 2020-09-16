@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7959162cbae9a336eb24e438c235c9c7",
+    "revision": "8f7cffa65b5c6db1287c011171dd9180",
     "url": "/mindit/index.html"
   },
   {
-    "revision": "f7609c4f50a7c31242e7",
+    "revision": "945f9a41b405f99f194e",
     "url": "/mindit/static/css/2.04716422.chunk.css"
   },
   {
-    "revision": "b62b26556def1921c7d8",
-    "url": "/mindit/static/css/main.9087967f.chunk.css"
+    "revision": "deff6de1543f7edb7909",
+    "url": "/mindit/static/css/main.86848190.chunk.css"
   },
   {
-    "revision": "f7609c4f50a7c31242e7",
-    "url": "/mindit/static/js/2.25c3e226.chunk.js"
+    "revision": "945f9a41b405f99f194e",
+    "url": "/mindit/static/js/2.75950adf.chunk.js"
   },
   {
     "revision": "ffa35a34964860fdc97ed79ca9abd27c",
-    "url": "/mindit/static/js/2.25c3e226.chunk.js.LICENSE.txt"
+    "url": "/mindit/static/js/2.75950adf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b62b26556def1921c7d8",
-    "url": "/mindit/static/js/main.4d29492b.chunk.js"
+    "revision": "deff6de1543f7edb7909",
+    "url": "/mindit/static/js/main.64ad55a0.chunk.js"
   },
   {
     "revision": "31c60bd3733133285a7e",
@@ -106,6 +106,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4194e9707d27c673edb00b9366a394a1",
     "url": "/mindit/static/media/fond_logo.4194e970.jpg"
+  },
+  {
+    "revision": "3492df5b8fb4505d050e41be34a3bf74",
+    "url": "/mindit/static/media/heading.3492df5b.svg"
   },
   {
     "revision": "1afb1a0fe5954a6043afbf703f75ae43",

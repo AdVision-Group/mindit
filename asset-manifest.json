@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/mindit/static/css/main.9087967f.chunk.css",
-    "main.js": "/mindit/static/js/main.4d29492b.chunk.js",
-    "main.js.map": "/mindit/static/js/main.4d29492b.chunk.js.map",
+    "main.css": "/mindit/static/css/main.86848190.chunk.css",
+    "main.js": "/mindit/static/js/main.64ad55a0.chunk.js",
+    "main.js.map": "/mindit/static/js/main.64ad55a0.chunk.js.map",
     "runtime-main.js": "/mindit/static/js/runtime-main.8fdb237e.js",
     "runtime-main.js.map": "/mindit/static/js/runtime-main.8fdb237e.js.map",
     "static/css/2.04716422.chunk.css": "/mindit/static/css/2.04716422.chunk.css",
-    "static/js/2.25c3e226.chunk.js": "/mindit/static/js/2.25c3e226.chunk.js",
-    "static/js/2.25c3e226.chunk.js.map": "/mindit/static/js/2.25c3e226.chunk.js.map",
+    "static/js/2.75950adf.chunk.js": "/mindit/static/js/2.75950adf.chunk.js",
+    "static/js/2.75950adf.chunk.js.map": "/mindit/static/js/2.75950adf.chunk.js.map",
     "index.html": "/mindit/index.html",
-    "precache-manifest.7d82814f25d291ee5d376bc5384f23d3.js": "/mindit/precache-manifest.7d82814f25d291ee5d376bc5384f23d3.js",
+    "precache-manifest.ff311a7563781bb9f6f5c8c47d042aac.js": "/mindit/precache-manifest.ff311a7563781bb9f6f5c8c47d042aac.js",
     "service-worker.js": "/mindit/service-worker.js",
     "static/css/2.04716422.chunk.css.map": "/mindit/static/css/2.04716422.chunk.css.map",
-    "static/css/main.9087967f.chunk.css.map": "/mindit/static/css/main.9087967f.chunk.css.map",
-    "static/js/2.25c3e226.chunk.js.LICENSE.txt": "/mindit/static/js/2.25c3e226.chunk.js.LICENSE.txt",
+    "static/css/main.86848190.chunk.css.map": "/mindit/static/css/main.86848190.chunk.css.map",
+    "static/js/2.75950adf.chunk.js.LICENSE.txt": "/mindit/static/js/2.75950adf.chunk.js.LICENSE.txt",
     "static/media/0.png": "/mindit/static/media/0.d3b5d6f6.png",
     "static/media/1.png": "/mindit/static/media/1.24015c8e.png",
     "static/media/2.png": "/mindit/static/media/2.d03c976c.png",
@@ -33,6 +33,7 @@
     "static/media/finsprav.png": "/mindit/static/media/finsprav.15d74765.png",
     "static/media/finspravg.jpg": "/mindit/static/media/finspravg.47d602be.jpg",
     "static/media/fond_logo.jpg": "/mindit/static/media/fond_logo.4194e970.jpg",
+    "static/media/heading.svg": "/mindit/static/media/heading.3492df5b.svg",
     "static/media/homeicon.png": "/mindit/static/media/homeicon.1afb1a0f.png",
     "static/media/ibmg.png": "/mindit/static/media/ibmg.283ba18b.png",
     "static/media/ibmg.jpg": "/mindit/static/media/ibmg.7866d276.jpg",
@@ -72,8 +73,8 @@
   "entrypoints": [
     "static/js/runtime-main.8fdb237e.js",
     "static/css/2.04716422.chunk.css",
-    "static/js/2.25c3e226.chunk.js",
-    "static/css/main.9087967f.chunk.css",
-    "static/js/main.4d29492b.chunk.js"
+    "static/js/2.75950adf.chunk.js",
+    "static/css/main.86848190.chunk.css",
+    "static/js/main.64ad55a0.chunk.js"
   ]
 }
