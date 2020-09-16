@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "277b4fb8c99a85045e7d5fe5cd918bc1",
+    "revision": "657d7f06a98637c2ca6eac6535a21aa8",
     "url": "/mindit/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mindit/static/css/2.04716422.chunk.css"
   },
   {
-    "revision": "b3bdcddff3fb06638d11",
-    "url": "/mindit/static/css/main.a0ba2268.chunk.css"
+    "revision": "218d56aa81635db9909a",
+    "url": "/mindit/static/css/main.650c9e14.chunk.css"
   },
   {
     "revision": "945f9a41b405f99f194e",
@@ -20,32 +20,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mindit/static/js/2.75950adf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b3bdcddff3fb06638d11",
-    "url": "/mindit/static/js/main.0ef0cc5a.chunk.js"
+    "revision": "218d56aa81635db9909a",
+    "url": "/mindit/static/js/main.3521b56f.chunk.js"
   },
   {
     "revision": "31c60bd3733133285a7e",
     "url": "/mindit/static/js/runtime-main.8fdb237e.js"
   },
   {
-    "revision": "d3b5d6f6d47e7b70c1e9d7f840796e2c",
-    "url": "/mindit/static/media/0.d3b5d6f6.png"
+    "revision": "6585120d0cb6dc618b5db1155f225f53",
+    "url": "/mindit/static/media/0.6585120d.svg"
   },
   {
-    "revision": "24015c8eded325bda5922313a412f993",
-    "url": "/mindit/static/media/1.24015c8e.png"
+    "revision": "d8eeb76f5e3532e007b23792c41f2925",
+    "url": "/mindit/static/media/1.d8eeb76f.svg"
   },
   {
-    "revision": "d03c976c6901f2611f1e0d6937898243",
-    "url": "/mindit/static/media/2.d03c976c.png"
+    "revision": "744563cefc968659df184692714ee99b",
+    "url": "/mindit/static/media/2.744563ce.svg"
   },
   {
-    "revision": "0ac86a4f0ada39a9ef315215fc764078",
-    "url": "/mindit/static/media/3.0ac86a4f.png"
+    "revision": "0a2142d90fce8982aa8638ee1d050edc",
+    "url": "/mindit/static/media/3.0a2142d9.svg"
   },
   {
-    "revision": "9cab0f91e90210a13e0910e07c4db3cc",
-    "url": "/mindit/static/media/4.9cab0f91.png"
+    "revision": "e326bb428995852a96795cb4ddfc4069",
+    "url": "/mindit/static/media/4.e326bb42.svg"
   },
   {
     "revision": "e9a9c3da06326ea5c9cde97af08c382c",
