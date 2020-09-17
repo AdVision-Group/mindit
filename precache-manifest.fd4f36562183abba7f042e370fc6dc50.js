@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "56115a23bef85ddaa76740260aff7083",
+    "revision": "59de3aa82c63f075604a9495483b8777",
     "url": "/mindit/index.html"
   },
   {
-    "revision": "c444503651a54d2b95b9",
+    "revision": "1799da468994c20055a6",
     "url": "/mindit/static/css/2.04716422.chunk.css"
   },
   {
-    "revision": "6070e5422b46ac8a5200",
-    "url": "/mindit/static/css/main.ed8a2efd.chunk.css"
+    "revision": "13366622521fdfc1b533",
+    "url": "/mindit/static/css/main.25f59374.chunk.css"
   },
   {
-    "revision": "c444503651a54d2b95b9",
-    "url": "/mindit/static/js/2.ded37635.chunk.js"
+    "revision": "1799da468994c20055a6",
+    "url": "/mindit/static/js/2.3eeaaf38.chunk.js"
   },
   {
     "revision": "ffa35a34964860fdc97ed79ca9abd27c",
-    "url": "/mindit/static/js/2.ded37635.chunk.js.LICENSE.txt"
+    "url": "/mindit/static/js/2.3eeaaf38.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6070e5422b46ac8a5200",
-    "url": "/mindit/static/js/main.fe88fd56.chunk.js"
+    "revision": "13366622521fdfc1b533",
+    "url": "/mindit/static/js/main.689e3f7f.chunk.js"
   },
   {
     "revision": "31c60bd3733133285a7e",
@@ -80,8 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mindit/static/media/back.e6ad128e.svg"
   },
   {
-    "revision": "7ac661a985bd295f66cdc758c402cff8",
-    "url": "/mindit/static/media/back2.7ac661a9.svg"
+    "revision": "81cdc4d3259031b27c71bb48863c4ebe",
+    "url": "/mindit/static/media/back2.81cdc4d3.svg"
   },
   {
     "revision": "4a95100c0713f3fd23426641e686d5ae",
