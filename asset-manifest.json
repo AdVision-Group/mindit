@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mindit/static/css/main.25f59374.chunk.css",
+    "main.css": "/mindit/static/css/main.ba2d2cce.chunk.css",
     "main.js": "/mindit/static/js/main.689e3f7f.chunk.js",
     "main.js.map": "/mindit/static/js/main.689e3f7f.chunk.js.map",
     "runtime-main.js": "/mindit/static/js/runtime-main.8fdb237e.js",
@@ -9,10 +9,10 @@
     "static/js/2.3eeaaf38.chunk.js": "/mindit/static/js/2.3eeaaf38.chunk.js",
     "static/js/2.3eeaaf38.chunk.js.map": "/mindit/static/js/2.3eeaaf38.chunk.js.map",
     "index.html": "/mindit/index.html",
-    "precache-manifest.fd4f36562183abba7f042e370fc6dc50.js": "/mindit/precache-manifest.fd4f36562183abba7f042e370fc6dc50.js",
+    "precache-manifest.e2c32e61e8cdba1a17332d0073524a70.js": "/mindit/precache-manifest.e2c32e61e8cdba1a17332d0073524a70.js",
     "service-worker.js": "/mindit/service-worker.js",
     "static/css/2.04716422.chunk.css.map": "/mindit/static/css/2.04716422.chunk.css.map",
-    "static/css/main.25f59374.chunk.css.map": "/mindit/static/css/main.25f59374.chunk.css.map",
+    "static/css/main.ba2d2cce.chunk.css.map": "/mindit/static/css/main.ba2d2cce.chunk.css.map",
     "static/js/2.3eeaaf38.chunk.js.LICENSE.txt": "/mindit/static/js/2.3eeaaf38.chunk.js.LICENSE.txt",
     "static/media/0.svg": "/mindit/static/media/0.6585120d.svg",
     "static/media/1.svg": "/mindit/static/media/1.d8eeb76f.svg",
@@ -80,7 +80,7 @@
     "static/js/runtime-main.8fdb237e.js",
     "static/css/2.04716422.chunk.css",
     "static/js/2.3eeaaf38.chunk.js",
-    "static/css/main.25f59374.chunk.css",
+    "static/css/main.ba2d2cce.chunk.css",
     "static/js/main.689e3f7f.chunk.js"
   ]
 }
