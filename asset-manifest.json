@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/mindit/static/css/main.c8c0dd8c.chunk.css",
-    "main.js": "/mindit/static/js/main.8d6bfd38.chunk.js",
-    "main.js.map": "/mindit/static/js/main.8d6bfd38.chunk.js.map",
+    "main.css": "/mindit/static/css/main.fc0b2e24.chunk.css",
+    "main.js": "/mindit/static/js/main.c97036fb.chunk.js",
+    "main.js.map": "/mindit/static/js/main.c97036fb.chunk.js.map",
     "runtime-main.js": "/mindit/static/js/runtime-main.8fdb237e.js",
     "runtime-main.js.map": "/mindit/static/js/runtime-main.8fdb237e.js.map",
     "static/css/2.04716422.chunk.css": "/mindit/static/css/2.04716422.chunk.css",
-    "static/js/2.65ce6cdd.chunk.js": "/mindit/static/js/2.65ce6cdd.chunk.js",
-    "static/js/2.65ce6cdd.chunk.js.map": "/mindit/static/js/2.65ce6cdd.chunk.js.map",
+    "static/js/2.0079067e.chunk.js": "/mindit/static/js/2.0079067e.chunk.js",
+    "static/js/2.0079067e.chunk.js.map": "/mindit/static/js/2.0079067e.chunk.js.map",
     "index.html": "/mindit/index.html",
-    "precache-manifest.3fa8d5423e81f53c8ccb10bae4ab2121.js": "/mindit/precache-manifest.3fa8d5423e81f53c8ccb10bae4ab2121.js",
+    "precache-manifest.fcd8c8406bde711d0cab1b00bb8b416b.js": "/mindit/precache-manifest.fcd8c8406bde711d0cab1b00bb8b416b.js",
     "service-worker.js": "/mindit/service-worker.js",
     "static/css/2.04716422.chunk.css.map": "/mindit/static/css/2.04716422.chunk.css.map",
-    "static/css/main.c8c0dd8c.chunk.css.map": "/mindit/static/css/main.c8c0dd8c.chunk.css.map",
-    "static/js/2.65ce6cdd.chunk.js.LICENSE.txt": "/mindit/static/js/2.65ce6cdd.chunk.js.LICENSE.txt",
+    "static/css/main.fc0b2e24.chunk.css.map": "/mindit/static/css/main.fc0b2e24.chunk.css.map",
+    "static/js/2.0079067e.chunk.js.LICENSE.txt": "/mindit/static/js/2.0079067e.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/mindit/static/media/bg6.14b3c105.jpg",
     "static/media/ArchiveX.pdf": "/mindit/static/media/ArchiveX.fb6a88f4.pdf",
     "static/media/DocMiner.pdf": "/mindit/static/media/DocMiner.42e68afa.pdf",
@@ -24,7 +24,9 @@
     "static/media/back2.svg": "/mindit/static/media/back2.81cdc4d3.svg",
     "static/media/bg (1).jpg": "/mindit/static/media/bg (1).4a95100c.jpg",
     "static/media/bg.jpg": "/mindit/static/media/bg.16de66a8.jpg",
+    "static/media/brain.png": "/mindit/static/media/brain.934d799b.png",
     "static/media/cert-mindrec.pdf": "/mindit/static/media/cert-mindrec.56988b09.pdf",
+    "static/media/circle.png": "/mindit/static/media/circle.65e7d406.png",
     "static/media/decor.png": "/mindit/static/media/decor.7bbaef5e.png",
     "static/media/decor2.png": "/mindit/static/media/decor2.7ff4d74b.png",
     "static/media/erste.jpg": "/mindit/static/media/erste.278956b7.jpg",
@@ -32,6 +34,7 @@
     "static/media/finsprav.png": "/mindit/static/media/finsprav.15d74765.png",
     "static/media/finspravg.jpg": "/mindit/static/media/finspravg.47d602be.jpg",
     "static/media/fond_logo.jpg": "/mindit/static/media/fond_logo.4194e970.jpg",
+    "static/media/head.png": "/mindit/static/media/head.a528ba69.png",
     "static/media/heading.svg": "/mindit/static/media/heading.3492df5b.svg",
     "static/media/ibmg.png": "/mindit/static/media/ibmg.283ba18b.png",
     "static/media/ibmg.jpg": "/mindit/static/media/ibmg.7866d276.jpg",
@@ -72,8 +75,8 @@
   "entrypoints": [
     "static/js/runtime-main.8fdb237e.js",
     "static/css/2.04716422.chunk.css",
-    "static/js/2.65ce6cdd.chunk.js",
-    "static/css/main.c8c0dd8c.chunk.css",
-    "static/js/main.8d6bfd38.chunk.js"
+    "static/js/2.0079067e.chunk.js",
+    "static/css/main.fc0b2e24.chunk.css",
+    "static/js/main.c97036fb.chunk.js"
   ]
 }

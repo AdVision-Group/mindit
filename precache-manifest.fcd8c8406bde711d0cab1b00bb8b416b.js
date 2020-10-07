@@ -1,59 +1,59 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9a979f6f707e31f3cb3a79a615c61c5",
+    "revision": "2a65e8c273856255aa4b259c182d6c86",
     "url": "/mindit/index.html"
   },
   {
-    "revision": "27df8b3c5e016d8daf0d",
+    "revision": "6fda1c6de3ec184fdc60",
     "url": "/mindit/static/css/2.04716422.chunk.css"
   },
   {
-    "revision": "71700147d904ebef1a18",
-    "url": "/mindit/static/css/main.c8c0dd8c.chunk.css"
+    "revision": "f56091ec49e702c14558",
+    "url": "/mindit/static/css/main.fc0b2e24.chunk.css"
   },
   {
-    "revision": "27df8b3c5e016d8daf0d",
-    "url": "/mindit/static/js/2.65ce6cdd.chunk.js"
+    "revision": "6fda1c6de3ec184fdc60",
+    "url": "/mindit/static/js/2.0079067e.chunk.js"
   },
   {
     "revision": "ffa35a34964860fdc97ed79ca9abd27c",
-    "url": "/mindit/static/js/2.65ce6cdd.chunk.js.LICENSE.txt"
+    "url": "/mindit/static/js/2.0079067e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "71700147d904ebef1a18",
-    "url": "/mindit/static/js/main.8d6bfd38.chunk.js"
+    "revision": "f56091ec49e702c14558",
+    "url": "/mindit/static/js/main.c97036fb.chunk.js"
   },
   {
     "revision": "31c60bd3733133285a7e",
     "url": "/mindit/static/js/runtime-main.8fdb237e.js"
   },
   {
-    "revision": "3989c4c84a2f6d01e102347253f61b7d",
-    "url": "/mindit/static/media/1.3989c4c8.jpg"
+    "revision": "70180d0376bfdd3ddd3334aa87cfcd07",
+    "url": "/mindit/static/media/1.70180d03.jpg"
   },
   {
-    "revision": "1295e6e549c802bd5602cc7ceffc8fbd",
-    "url": "/mindit/static/media/2.1295e6e5.jpg"
+    "revision": "ba0fda223d03dacf04b6983613e9b4d9",
+    "url": "/mindit/static/media/2.ba0fda22.jpg"
   },
   {
-    "revision": "01559599ee984fe277d19317a7b6e1bc",
-    "url": "/mindit/static/media/21.01559599.jpg"
+    "revision": "e13f18db80da6288adc6dc4862c799dd",
+    "url": "/mindit/static/media/21.e13f18db.jpg"
   },
   {
-    "revision": "e28f3a694f4de39322930ed06d76e48d",
-    "url": "/mindit/static/media/3.e28f3a69.jpg"
+    "revision": "d1b0d755e702cd8f3fc46875b0d7c886",
+    "url": "/mindit/static/media/3.d1b0d755.jpg"
   },
   {
-    "revision": "88660dc1f8070d5be83c1f32feacbe0a",
-    "url": "/mindit/static/media/4.88660dc1.jpg"
+    "revision": "84c269fc03c91c340dc338f8d8a17af6",
+    "url": "/mindit/static/media/4.84c269fc.jpg"
   },
   {
-    "revision": "b77988832f426e075b986d0cc30bd22e",
-    "url": "/mindit/static/media/5.b7798883.jpg"
+    "revision": "9f0281c9b8074e8fa7cde45469cbf168",
+    "url": "/mindit/static/media/5.9f0281c9.jpg"
   },
   {
-    "revision": "98327bf31e78f56a1bc28b61423b7ea7",
-    "url": "/mindit/static/media/6.98327bf3.jpg"
+    "revision": "9799b8ef95bf7be7a58d3de28b7c90c7",
+    "url": "/mindit/static/media/6.9799b8ef.jpg"
   },
   {
     "revision": "fb6a88f424d64d82e98ae6ab2a48355d",
@@ -70,10 +70,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "daeb00e6d8a374f55b1291237b5e3665",
     "url": "/mindit/static/media/abby.daeb00e6.png"
-  },
-  {
-    "revision": "6423a5cb548d493a0fc59c8467e49896",
-    "url": "/mindit/static/media/abc2.6423a5cb.jpg"
   },
   {
     "revision": "a0e061b54507c1ea6361ee20ac930f2c",
@@ -100,8 +96,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mindit/static/media/bg6.14b3c105.jpg"
   },
   {
+    "revision": "934d799b6c1d4d463fc756fbdc59f80f",
+    "url": "/mindit/static/media/brain.934d799b.png"
+  },
+  {
     "revision": "56988b09c0457e687b14bf9effe19f6b",
     "url": "/mindit/static/media/cert-mindrec.56988b09.pdf"
+  },
+  {
+    "revision": "65e7d406ae0ee955fa15182e68ba3333",
+    "url": "/mindit/static/media/circle.65e7d406.png"
   },
   {
     "revision": "7bbaef5ef0cc6b6a269efdaacdcced65",
@@ -130,6 +134,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4194e9707d27c673edb00b9366a394a1",
     "url": "/mindit/static/media/fond_logo.4194e970.jpg"
+  },
+  {
+    "revision": "a528ba6978b48d476eeffb4479c0742a",
+    "url": "/mindit/static/media/head.a528ba69.png"
   },
   {
     "revision": "3492df5b8fb4505d050e41be34a3bf74",
