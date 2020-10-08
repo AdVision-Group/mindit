@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2a65e8c273856255aa4b259c182d6c86",
+    "revision": "b5246d7da3b3a3f79c49a3342aa34efa",
     "url": "/mindit/index.html"
   },
   {
-    "revision": "6fda1c6de3ec184fdc60",
+    "revision": "cecba8c846173f3d9a6f",
     "url": "/mindit/static/css/2.04716422.chunk.css"
   },
   {
-    "revision": "f56091ec49e702c14558",
-    "url": "/mindit/static/css/main.fc0b2e24.chunk.css"
+    "revision": "3469692106b829b9ca47",
+    "url": "/mindit/static/css/main.5a676d3a.chunk.css"
   },
   {
-    "revision": "6fda1c6de3ec184fdc60",
-    "url": "/mindit/static/js/2.0079067e.chunk.js"
+    "revision": "cecba8c846173f3d9a6f",
+    "url": "/mindit/static/js/2.498ad767.chunk.js"
   },
   {
     "revision": "ffa35a34964860fdc97ed79ca9abd27c",
-    "url": "/mindit/static/js/2.0079067e.chunk.js.LICENSE.txt"
+    "url": "/mindit/static/js/2.498ad767.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f56091ec49e702c14558",
-    "url": "/mindit/static/js/main.c97036fb.chunk.js"
+    "revision": "3469692106b829b9ca47",
+    "url": "/mindit/static/js/main.9bd57826.chunk.js"
   },
   {
     "revision": "31c60bd3733133285a7e",
@@ -216,6 +216,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mindit/static/media/kulturag.a34ad7b1.png"
   },
   {
+    "revision": "963b7019e479c757938063c929980cb1",
+    "url": "/mindit/static/media/mob.963b7019.jpg"
+  },
+  {
     "revision": "df177583f8f5ea9b4ec427ee8e6614c0",
     "url": "/mindit/static/media/msvvs_logo.df177583.png"
   },
@@ -268,12 +272,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mindit/static/media/svg2.a7539dae.png"
   },
   {
+    "revision": "6b5220f235fecfc009c8dcd9a89af26b",
+    "url": "/mindit/static/media/test.6b5220f2.jpg"
+  },
+  {
     "revision": "2b0f92681862df87d269b24f3459dae6",
     "url": "/mindit/static/media/veolia.2b0f9268.jpg"
   },
   {
     "revision": "c50409cfebc89451d0d26f8320039f2d",
     "url": "/mindit/static/media/veoliag.c50409cf.jpg"
+  },
+  {
+    "revision": "073c227657b371dba6b77ae8978e9771",
+    "url": "/mindit/static/media/video2.073c2276.mp4"
   },
   {
     "revision": "584255f4395d5b3e35a29dd02db4d50b",

@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mindit/static/css/main.fc0b2e24.chunk.css",
-    "main.js": "/mindit/static/js/main.c97036fb.chunk.js",
-    "main.js.map": "/mindit/static/js/main.c97036fb.chunk.js.map",
+    "main.css": "/mindit/static/css/main.5a676d3a.chunk.css",
+    "main.js": "/mindit/static/js/main.9bd57826.chunk.js",
+    "main.js.map": "/mindit/static/js/main.9bd57826.chunk.js.map",
     "runtime-main.js": "/mindit/static/js/runtime-main.8fdb237e.js",
     "runtime-main.js.map": "/mindit/static/js/runtime-main.8fdb237e.js.map",
     "static/css/2.04716422.chunk.css": "/mindit/static/css/2.04716422.chunk.css",
-    "static/js/2.0079067e.chunk.js": "/mindit/static/js/2.0079067e.chunk.js",
-    "static/js/2.0079067e.chunk.js.map": "/mindit/static/js/2.0079067e.chunk.js.map",
+    "static/js/2.498ad767.chunk.js": "/mindit/static/js/2.498ad767.chunk.js",
+    "static/js/2.498ad767.chunk.js.map": "/mindit/static/js/2.498ad767.chunk.js.map",
     "index.html": "/mindit/index.html",
-    "precache-manifest.fcd8c8406bde711d0cab1b00bb8b416b.js": "/mindit/precache-manifest.fcd8c8406bde711d0cab1b00bb8b416b.js",
+    "precache-manifest.5f8c28fa974c3a39e4333f4f92d741a7.js": "/mindit/precache-manifest.5f8c28fa974c3a39e4333f4f92d741a7.js",
     "service-worker.js": "/mindit/service-worker.js",
     "static/css/2.04716422.chunk.css.map": "/mindit/static/css/2.04716422.chunk.css.map",
-    "static/css/main.fc0b2e24.chunk.css.map": "/mindit/static/css/main.fc0b2e24.chunk.css.map",
-    "static/js/2.0079067e.chunk.js.LICENSE.txt": "/mindit/static/js/2.0079067e.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/mindit/static/media/bg6.14b3c105.jpg",
+    "static/css/main.5a676d3a.chunk.css.map": "/mindit/static/css/main.5a676d3a.chunk.css.map",
+    "static/js/2.498ad767.chunk.js.LICENSE.txt": "/mindit/static/js/2.498ad767.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/mindit/static/media/test.6b5220f2.jpg",
     "static/media/ArchiveX.pdf": "/mindit/static/media/ArchiveX.fb6a88f4.pdf",
     "static/media/DocMiner.pdf": "/mindit/static/media/DocMiner.42e68afa.pdf",
     "static/media/RSM.pdf": "/mindit/static/media/RSM.1f587f0e.pdf",
@@ -69,14 +69,15 @@
     "static/media/svg2.png": "/mindit/static/media/svg2.a7539dae.png",
     "static/media/veolia.jpg": "/mindit/static/media/veolia.2b0f9268.jpg",
     "static/media/veoliag.jpg": "/mindit/static/media/veoliag.c50409cf.jpg",
+    "static/media/video2.mp4": "/mindit/static/media/video2.073c2276.mp4",
     "static/media/vnutro.jpg": "/mindit/static/media/vnutro.584255f4.jpg",
     "static/media/vnutrog.jpg": "/mindit/static/media/vnutrog.8037f78e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8fdb237e.js",
     "static/css/2.04716422.chunk.css",
-    "static/js/2.0079067e.chunk.js",
-    "static/css/main.fc0b2e24.chunk.css",
-    "static/js/main.c97036fb.chunk.js"
+    "static/js/2.498ad767.chunk.js",
+    "static/css/main.5a676d3a.chunk.css",
+    "static/js/main.9bd57826.chunk.js"
   ]
 }
