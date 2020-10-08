@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mindit/static/css/main.5a676d3a.chunk.css",
+    "main.css": "/mindit/static/css/main.62a7ad4e.chunk.css",
     "main.js": "/mindit/static/js/main.9bd57826.chunk.js",
     "main.js.map": "/mindit/static/js/main.9bd57826.chunk.js.map",
     "runtime-main.js": "/mindit/static/js/runtime-main.8fdb237e.js",
@@ -9,12 +9,12 @@
     "static/js/2.498ad767.chunk.js": "/mindit/static/js/2.498ad767.chunk.js",
     "static/js/2.498ad767.chunk.js.map": "/mindit/static/js/2.498ad767.chunk.js.map",
     "index.html": "/mindit/index.html",
-    "precache-manifest.5f8c28fa974c3a39e4333f4f92d741a7.js": "/mindit/precache-manifest.5f8c28fa974c3a39e4333f4f92d741a7.js",
+    "precache-manifest.a137911953eb493b3500772dc39ccc18.js": "/mindit/precache-manifest.a137911953eb493b3500772dc39ccc18.js",
     "service-worker.js": "/mindit/service-worker.js",
     "static/css/2.04716422.chunk.css.map": "/mindit/static/css/2.04716422.chunk.css.map",
-    "static/css/main.5a676d3a.chunk.css.map": "/mindit/static/css/main.5a676d3a.chunk.css.map",
+    "static/css/main.62a7ad4e.chunk.css.map": "/mindit/static/css/main.62a7ad4e.chunk.css.map",
     "static/js/2.498ad767.chunk.js.LICENSE.txt": "/mindit/static/js/2.498ad767.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/mindit/static/media/test.6b5220f2.jpg",
+    "static/media/index.scss": "/mindit/static/media/mob.963b7019.jpg",
     "static/media/ArchiveX.pdf": "/mindit/static/media/ArchiveX.fb6a88f4.pdf",
     "static/media/DocMiner.pdf": "/mindit/static/media/DocMiner.42e68afa.pdf",
     "static/media/RSM.pdf": "/mindit/static/media/RSM.1f587f0e.pdf",
@@ -77,7 +77,7 @@
     "static/js/runtime-main.8fdb237e.js",
     "static/css/2.04716422.chunk.css",
     "static/js/2.498ad767.chunk.js",
-    "static/css/main.5a676d3a.chunk.css",
+    "static/css/main.62a7ad4e.chunk.css",
     "static/js/main.9bd57826.chunk.js"
   ]
 }
