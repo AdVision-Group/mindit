@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mindit/static/css/main.8836a6f4.chunk.css",
-    "main.js": "/mindit/static/js/main.b2be8186.chunk.js",
-    "main.js.map": "/mindit/static/js/main.b2be8186.chunk.js.map",
+    "main.js": "/mindit/static/js/main.ecfde818.chunk.js",
+    "main.js.map": "/mindit/static/js/main.ecfde818.chunk.js.map",
     "runtime-main.js": "/mindit/static/js/runtime-main.8fdb237e.js",
     "runtime-main.js.map": "/mindit/static/js/runtime-main.8fdb237e.js.map",
     "static/css/2.04716422.chunk.css": "/mindit/static/css/2.04716422.chunk.css",
     "static/js/2.498ad767.chunk.js": "/mindit/static/js/2.498ad767.chunk.js",
     "static/js/2.498ad767.chunk.js.map": "/mindit/static/js/2.498ad767.chunk.js.map",
     "index.html": "/mindit/index.html",
-    "precache-manifest.3e8a183707b95b3552edc961ed99760f.js": "/mindit/precache-manifest.3e8a183707b95b3552edc961ed99760f.js",
+    "precache-manifest.34613445db260de0d04feae8d809a367.js": "/mindit/precache-manifest.34613445db260de0d04feae8d809a367.js",
     "service-worker.js": "/mindit/service-worker.js",
     "static/css/2.04716422.chunk.css.map": "/mindit/static/css/2.04716422.chunk.css.map",
     "static/css/main.8836a6f4.chunk.css.map": "/mindit/static/css/main.8836a6f4.chunk.css.map",
@@ -69,7 +69,7 @@
     "static/media/svg2.png": "/mindit/static/media/svg2.a7539dae.png",
     "static/media/veolia.jpg": "/mindit/static/media/veolia.2b0f9268.jpg",
     "static/media/veoliag.jpg": "/mindit/static/media/veoliag.c50409cf.jpg",
-    "static/media/video2.mp4": "/mindit/static/media/video2.073c2276.mp4",
+    "static/media/video2.mp4": "/mindit/static/media/video2.329e7f10.mp4",
     "static/media/vnutro.jpg": "/mindit/static/media/vnutro.584255f4.jpg",
     "static/media/vnutrog.jpg": "/mindit/static/media/vnutrog.8037f78e.jpg"
   },
@@ -78,6 +78,6 @@
     "static/css/2.04716422.chunk.css",
     "static/js/2.498ad767.chunk.js",
     "static/css/main.8836a6f4.chunk.css",
-    "static/js/main.b2be8186.chunk.js"
+    "static/js/main.ecfde818.chunk.js"
   ]
 }

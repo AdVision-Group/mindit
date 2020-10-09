@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0765848704bf5c48f28e7f81da37a68",
+    "revision": "9a4092609cfa495a2d0ee7a20cdc2dd8",
     "url": "/mindit/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mindit/static/css/2.04716422.chunk.css"
   },
   {
-    "revision": "a5614b5131eb92ae0abc",
+    "revision": "d56aa641f1db6dd2fcb9",
     "url": "/mindit/static/css/main.8836a6f4.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mindit/static/js/2.498ad767.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a5614b5131eb92ae0abc",
-    "url": "/mindit/static/js/main.b2be8186.chunk.js"
+    "revision": "d56aa641f1db6dd2fcb9",
+    "url": "/mindit/static/js/main.ecfde818.chunk.js"
   },
   {
     "revision": "31c60bd3733133285a7e",
@@ -280,8 +280,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mindit/static/media/veoliag.c50409cf.jpg"
   },
   {
-    "revision": "073c227657b371dba6b77ae8978e9771",
-    "url": "/mindit/static/media/video2.073c2276.mp4"
+    "revision": "329e7f1016fec10767cf27b6194d970e",
+    "url": "/mindit/static/media/video2.329e7f10.mp4"
   },
   {
     "revision": "584255f4395d5b3e35a29dd02db4d50b",
