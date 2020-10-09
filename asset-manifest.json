@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mindit/static/css/main.8836a6f4.chunk.css",
-    "main.js": "/mindit/static/js/main.ecfde818.chunk.js",
-    "main.js.map": "/mindit/static/js/main.ecfde818.chunk.js.map",
+    "main.js": "/mindit/static/js/main.b38fd1dd.chunk.js",
+    "main.js.map": "/mindit/static/js/main.b38fd1dd.chunk.js.map",
     "runtime-main.js": "/mindit/static/js/runtime-main.8fdb237e.js",
     "runtime-main.js.map": "/mindit/static/js/runtime-main.8fdb237e.js.map",
     "static/css/2.04716422.chunk.css": "/mindit/static/css/2.04716422.chunk.css",
     "static/js/2.498ad767.chunk.js": "/mindit/static/js/2.498ad767.chunk.js",
     "static/js/2.498ad767.chunk.js.map": "/mindit/static/js/2.498ad767.chunk.js.map",
     "index.html": "/mindit/index.html",
-    "precache-manifest.34613445db260de0d04feae8d809a367.js": "/mindit/precache-manifest.34613445db260de0d04feae8d809a367.js",
+    "precache-manifest.5c204d700491782fa2e67fd3a76bef02.js": "/mindit/precache-manifest.5c204d700491782fa2e67fd3a76bef02.js",
     "service-worker.js": "/mindit/service-worker.js",
     "static/css/2.04716422.chunk.css.map": "/mindit/static/css/2.04716422.chunk.css.map",
     "static/css/main.8836a6f4.chunk.css.map": "/mindit/static/css/main.8836a6f4.chunk.css.map",
@@ -78,6 +78,6 @@
     "static/css/2.04716422.chunk.css",
     "static/js/2.498ad767.chunk.js",
     "static/css/main.8836a6f4.chunk.css",
-    "static/js/main.ecfde818.chunk.js"
+    "static/js/main.b38fd1dd.chunk.js"
   ]
 }
